@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.7
+id=op8t-calls-fix-a12
+name=Android 12 OnePlus8T Calls fix
+version=v1.0
 versionCode=8
-author=Zackptg5
+author=markomarinho
 description=
 support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
