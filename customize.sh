@@ -57,6 +57,13 @@ set_permissions() {
   
   set_perm $MODPATH/system/vendor/etc/audio_platform_info_intcodec.xml 0 0 0644
   set_perm $MODPATH/system/vendor/etc/audio_policy_configuration.xml 0 0 0644
+  set_perm $MODPATH/system/vendor/etc/audio_effects.xml 0 0 0644
+  set_perm $MODPATH/system/vendor/etc/audio_io_policy.conf 0 0 0644
+  set_perm $MODPATH/system/vendor/etc/audio_tuning_mixer.txt 0 0 0644
+  set_perm $MODPATH/system/vendor/etc/mixer_paths.xml 0 0 0644
+  set_perm $MODPATH/system/vendor/etc/sound_trigger_mixer_paths.xml 0 0 0644
+  set_perm $MODPATH/system/vendor/etc/sound_trigger_platform_info.xml 0 0 0644
+  set_perm $MODPATH/system/vendor/tfa98xx.cnt 0 0 0644
   # set_perm /data/local/tmp/file.txt 0 0 644
 }
 
